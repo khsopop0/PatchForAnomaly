@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+    <name>Nerf Anomaly</name>
+    <author>kars</author>
+    <description>This mod will nerf Too strong anomaly items and rituals.</description>
+    <packageId>NormalKars.NA</packageId>
+    
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+
+</ModMetaData>
